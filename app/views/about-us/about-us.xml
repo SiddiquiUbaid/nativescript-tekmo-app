@@ -2,15 +2,15 @@
   <ActionBar title="About" class="action-bar"/>
   <StackLayout>
       <Label text="About Tekmo" class="title" />
-      <Label text="Tekmo is a small online retailer specializing in retro video game sales and services. We're based in Louisville, KY." class="text-normal" textWrap="true"/>
+      <Label text="Tekmo is a small online retailer specializing in retro video game sales and services. We're based in Louisville, KY."  textWrap="true"/>
 
       <Label text="Our Mission" class="subtitle"/>
-      <Label text="We exist to bring our customers the best in retro gaming at affordable price. We love to visit and replay the games that shaped our childhoods, and believe that through sharing our love, we can help shape another generation of retro gaming geeks"  class="text-normal" textWrap="true" />
+      <Label text="We exist to bring our customers the best in retro gaming at affordable price. We love to visit and replay the games that shaped our childhoods, and believe that through sharing our love, we can help shape another generation of retro gaming geeks"   textWrap="true" />
 
       <Label text="History" class="subtitle"/>
-      <Label text="What is the history of Ubisoft? Small Beginnings, Big Ideas. Ubisoft's story begins with a family. The five Guillemot brothers, who saw an opportunity in the growing software development business, founded Ubisoft in 1986 to create and distribute video games around the world."  class="text-normal" textWrap="true" />
+      <Label text="What is the history of Ubisoft? Small Beginnings, Big Ideas. Ubisoft's story begins with a family. The five Guillemot brothers, who saw an opportunity in the growing software development business, founded Ubisoft in 1986 to create and distribute video games around the world."   textWrap="true" />
 
-      <Label text="Come visit us in Louisville, KY" class="text-normal"/>
+      <Label text="Come visit us in Louisville, KY" />
       <Button text="Home" tap="goHome" />
   </StackLayout>
   

@@ -25,3 +25,10 @@ Button.-primary {
   font-size: 15;
   margin: 5;
 }
+
+Label{
+  margin-left: 10;
+  margin-right: 10;
+  margin-bottom: 10;
+  font-size: 15;
+}
