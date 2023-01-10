@@ -15,4 +15,4 @@
     <Label row="2" col="1" text="Vampire Valkyrie" style.fontSize="20" textWrap="true" style="background-color: #93C572" />
 
   </GridLayout>
-</Page>
+</Page> 
