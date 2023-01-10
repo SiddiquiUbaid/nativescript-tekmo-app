@@ -25,7 +25,7 @@ export function onAbout(args){
   const obj = args.object
   const page = obj.page
   let aboutPage = {
-    moduleName: 'views/about-us/about-us',
+    moduleName: 'views/about-us/about-us', 
     transition: {
       name: 'fade'
     }
