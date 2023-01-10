@@ -4,5 +4,27 @@
 }
 
 .tile-title {
-  background-color: green;
+  color: white;
+  background-color: rgb(19, 184, 19);
 }
+
+.price {
+  color: #009933;
+  text-align: right;
+  font-weight: bold;
+} 
+
+
+
+.highlight .tile-title { 
+ font-weight: bold; 
+ background-color: green; 
+} 
+
+highlight .tile-title Label { 
+  font-size: 18; 
+ } 
+ .highlight .price { 
+  font-weight: bold; 
+  color: red; 
+ } 
