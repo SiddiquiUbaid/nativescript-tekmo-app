@@ -8,3 +8,20 @@
 Button.-primary {
   font-size: 18;
 }
+
+.title{
+  font-size: 30;
+  horizontal-align: center;
+  margin: 20;
+
+}
+
+.subtitle{
+  font-size: 20;
+
+}
+
+.text-normal{
+  font-size: 15;
+  margin: 5;
+}

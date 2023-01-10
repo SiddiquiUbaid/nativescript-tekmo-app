@@ -1,8 +1,11 @@
 <Page>
   <ActionBar title="About" class="action-bar"/>
   <StackLayout>
-      <Label text="Small company that wants to bring you the best in retro gaming!" style.fontSize="20" textWrap="true"/>
-      <Label text="Come visit us in Louisville, KY"/>
+      <Label text="About Tekmo" class="title" />
+      <Label text="Small company that wants to bring you the best in retro gaming!" class="text-normal" textWrap="true"/>
+      <Label text="Our Mission" class="subtitle"/>
+      <Label text="History" class="subtitle"/>
+      <Label text="Come visit us in Louisville, KY" class="text-normal"/>
       <Button text="Home" tap="goHome" />
   </StackLayout>
   
