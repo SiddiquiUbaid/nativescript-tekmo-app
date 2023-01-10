@@ -9,6 +9,11 @@ Button.-primary {
   font-size: 18;
 }
 
+Button{
+  font-size: 28;
+  horizontal-align: center
+}
+
 .title{
   font-size: 30;
   horizontal-align: center;
