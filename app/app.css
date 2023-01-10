@@ -5,6 +5,12 @@
 @tailwind components;
 @tailwind utilities;
 
+
+Page {
+  background-color:aquamarine
+
+}
+
 Button.-primary {
   font-size: 18;
 }
