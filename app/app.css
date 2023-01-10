@@ -11,7 +11,9 @@ Button.-primary {
 
 Button{
   font-size: 28;
-  horizontal-align: center
+  horizontal-align: center;
+  
+  
 }
 
 .title{
