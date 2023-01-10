@@ -25,7 +25,7 @@ export function onAbout(args){
   const obj = args.object
   const page = obj.page
   let aboutPage = {
-    moduleName: 'about/about',
+    moduleName: 'views/about-us/about-us',
     transition: {
       name: 'fade'
     }
@@ -40,7 +40,7 @@ export function onContact(args){
   const page = obj.page
 
   let contactPage = {
-    moduleName: 'contact-us/contact-us',
+    moduleName: 'views/contact-us/contact-us',
     transition: {
       name: 'slideBottom'
     }
@@ -55,7 +55,7 @@ export function onProduct(args){
   const page = obj.page
 
   let productPage ={
-    moduleName: 'products/products',
+    moduleName: 'views/products/products',
     transition: {
       name: 'flipRight'
     }
