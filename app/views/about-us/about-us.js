@@ -4,7 +4,7 @@ export function goHome(args){
   const page = obj.page
 
   let homePage = {
-    moduleName: 'home/home',
+    moduleName: 'views/home/home',
     transition: {
       name:  'fade'
 
